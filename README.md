@@ -111,7 +111,7 @@ Example:
 ### 🎥 **Demo Output**
 Below is the simulation of the robot finding its path automatically using the A\* algorithm:
 
-![Autonomous Robot Path Finder Output](output/output_demo.gif)
+![Autonomous Robot Path Finder Output](sample output.gif)
 
 ---
 
